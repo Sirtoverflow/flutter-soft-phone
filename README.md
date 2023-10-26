@@ -1,6 +1,6 @@
 # sip_call_crossplatform
 
-A new Flutter project.
+A soft phone VoIP Flutter project.
 
 ## Getting Started
 
